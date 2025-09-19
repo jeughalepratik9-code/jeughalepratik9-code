@@ -143,6 +143,22 @@
     </tr>
   </table>
 </div>
+### 📞 Get In Touch
+
+<table>
+<tr>
+<td align="center">
+<strong>📧 Email</strong><br/>
+<a href="mailto:jeughalepratik9@gmail.com">jeughalepratik9@gmail.com</a>
+</td>
+<td align="center">
+<strong>📱 Mobile</strong><br/>
+<a href="tel:‪+919325839218‬">‪+919325839218</a>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Advanced Analytics Technology Stack
 
