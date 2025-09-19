@@ -273,28 +273,6 @@
   </a>
 </div>
 
-## 🌟 Featured Analytics Project Portfolio
-
-<div align="center">
-  <a href="https://github.com/jeughalepratik9-code/customer-behavior-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeughalepratik9-code&repo=customer-behavior-analytics&theme=radical&hide_border=true&bg_color=0D1117,FF6B6B&title_color=ffffff&text_color=ffffff&icon_color=4ECDC4" alt="🎯 Customer Analytics" />
-  </a>
-  <a href="https://github.com/jeughalepratik9-code/sales-forecasting-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeughalepratik9-code&repo=sales-forecasting-dashboard&theme=radical&hide_border=true&bg_color=0D1117,4ECDC4&title_color=ffffff&text_color=ffffff&icon_color=45B7D1" alt="📈 Sales Forecasting" />
-  </a>
-  <a href="https://github.com/jeughalepratik9-code/market-trend-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeughalepratik9-code&repo=market-trend-analyzer&theme=radical&hide_border=true&bg_color=0D1117,96CEB4&title_color=ffffff&text_color=ffffff&icon_color=FFEAA7" alt="📊 Market Analysis" />
-  </a>
-  <a href="https://github.com/jeughalepratik9-code/performance-metrics-suite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeughalepratik9-code&repo=performance-metrics-suite&theme=radical&hide_border=true&bg_color=0D1117,DDA0DD&title_color=ffffff&text_color=ffffff&icon_color=FF6B6B" alt="⚡ Performance Metrics" />
-  </a>
-  <a href="https://github.com/jeughalepratik9-code/interactive-dashboard-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeughalepratik9-code&repo=interactive-dashboard-framework&theme=radical&hide_border=true&bg_color=0D1117,45B7D1&title_color=ffffff&text_color=ffffff&icon_color=96CEB4" alt="🎨 Dashboard Framework" />
-  </a>
-  <a href="https://github.com/jeughalepratik9-code/business-intelligence-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeughalepratik9-code&repo=business-intelligence-toolkit&theme=radical&hide_border=true&bg_color=0D1117,FFEAA7&title_color=000000&text_color=000000&icon_color=FF6B6B" alt="💼 BI Toolkit" />
-  </a>
-</div>
 
 ## 🎨 Dynamic Analytics Inspiration
 
